@@ -59,15 +59,5 @@ This project uses:
 - ESLint for code linting
 - Tailwind CSS for styling
 - Vite for fast development and building
-
-## Deployment
-
-The application is deployed on [your-deployment-platform] and can be accessed at [your-deployment-url].
-
-## Author
-
-[Your Name]
-
-## License
-
+  
 This project is created as part of a web development assignment. 
